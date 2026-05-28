@@ -55,6 +55,3 @@ Click any anomaly dot on the chart — the AI insight panel updates instantly. N
 
 ---
 
-## 🚀 How to Run
-
-```bash
